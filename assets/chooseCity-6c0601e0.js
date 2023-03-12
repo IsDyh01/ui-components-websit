@@ -1,0 +1,1 @@
+import{d as t,a as s,o as a,c as i}from"./index-9a4b852a.js";const h=t({__name:"chooseCity",setup(r){const e=o=>{console.log(o)},n=o=>{console.log(o)};return(o,_)=>{const c=s("ui-choose-city");return a(),i(c,{onChangeCity:n,onChangeProvince:e})}}});export{h as default};
