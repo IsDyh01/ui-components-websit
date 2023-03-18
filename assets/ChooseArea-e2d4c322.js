@@ -1,0 +1,1 @@
+import{d as n,a as s,o as t,c}from"./index-7bae8305.js";const m=n({__name:"ChooseArea",setup(r){const e=o=>{console.log(o)};return(o,_)=>{const a=s("ui-choose-area");return t(),c(a,{onChange:e})}}});export{m as default};

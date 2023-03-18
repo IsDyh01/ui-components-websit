@@ -1,1 +1,0 @@
-import{d as t,r as i,a,o as l,c}from"./index-9a4b852a.js";const u=t({__name:"ChooseIcon",setup(r){const e=i(!1);return(p,o)=>{const s=a("ui-choose-icon");return l(),c(s,{title:"选择图标",visible:e.value,"onUpdate:visible":o[0]||(o[0]=n=>e.value=n)},null,8,["visible"])}}});export{u as default};
